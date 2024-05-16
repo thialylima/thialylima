@@ -1,6 +1,6 @@
-### Oi! Meu nome é Thialy Sthéfany e sou Desenvolvedora Front-end em desenvolvimento. 😊
-- 💻 Atualmente estudando HTML, CSS, JavaScript e React.js
-- 👩🏻‍💻 Fascinada pela tecnologia!
+### Hi! My name is Thialy and I'm a Front-end developer in development. 😊
+- 💻 Currently studying HTML, CSS, JavaScript, and React.js.
+- 👩🏻‍💻 Fascinated by technology!
 - 🚀 "Coding dreams into reality!"
 
 <div style="display: inline_block"><br>
